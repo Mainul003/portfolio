@@ -1,0 +1,11 @@
+git status
+
+git add .
+or 
+git add file name
+
+git commit -m "Write as your wish? what have you done"
+
+git status
+
+git push origin master
